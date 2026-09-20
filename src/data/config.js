@@ -12,7 +12,7 @@ export const CONFIG = {
     father: "Bapak Wardja S.pd.",
     mother: "Ibu Oom Komariah",
     ig: "irfan.fw",
-    photo: "",
+    photo: "/img/pria.webp",
   },
   bride: {
     nick: "Karlina",
@@ -21,7 +21,7 @@ export const CONFIG = {
     father: "(Alm) Bapak Karso S.pd.",
     mother: "Iroh Rohmaniah",
     ig: "karlinaasm",
-    photo: "",
+    photo: "/img/wanita.webp",
   },
   coverPhoto: "/img/cover.webp", // foto sampul; kosong = ilustrasi placeholder
   couplePhoto: "/img/couple-first-page.webp",
@@ -57,28 +57,28 @@ export const CONFIG = {
 
   story: [
     {
-      when: "2019",
+      when: "2024",
       title: "Pertama bertemu",
-      text: "Kami dipertemukan di sebuah kegiatan kampus. Awalnya hanya saling menyapa, lalu berubah jadi obrolan yang tak pernah habis.",
-    },
-    {
-      when: "2022",
-      title: "Memulai hubungan",
-      text: "Setelah tiga tahun berteman, kami sepakat melangkah lebih jauh dan saling menjaga.",
+      text: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
       when: "2025",
-      title: "Lamaran",
-      text: "Di hadapan keluarga tercinta, Rizky meminang Anisa dengan penuh kesungguhan.",
+      title: "Memulai hubungan",
+      text: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
       when: "2026",
+      title: "Lamaran",
+      text: "Di hadapan keluarga tercinta, Irfan meminang Karlina dengan penuh kesungguhan.",
+    },
+    {
+      when: "2027",
       title: "Hari bahagia",
       text: "Dengan restu orang tua, kami siap memulai perjalanan baru sebagai suami dan istri.",
     },
   ],
 
-  gallery: [], // daftar alamat foto; kosong = 6 placeholder
+  gallery: ['/img/galeri-1.webp', '/img/galeri-2.webp', '/img/galeri-3.webp', '/img/galeri-4.webp',], // daftar alamat foto; kosong = 6 placeholder
 
   bank: [
     { bank: "BCA", number: "1234567890", name: "Rizky Pratama" },
