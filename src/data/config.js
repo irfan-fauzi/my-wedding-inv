@@ -48,7 +48,7 @@ export const CONFIG = {
   ],
   livestream: "", // link YouTube/Instagram Live bila ada
   dresscode:
-    "Mohon hadir tepat waktu. Dress code: warna earth tone (hijau sage, krem, dan cokelat muda).",
+    "Mohon hadir tepat waktu. Dress code: pakaian sopan dan rapi, warna bebas.",
 
   verse: {
     text: "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang.",

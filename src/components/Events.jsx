@@ -19,7 +19,7 @@ const calendarUrl = (e) =>
 export default function Events() {
   return (
     <Section id="events">
-      <SectionTitle label="Simpan tanggalnya">Waktu &amp; Tempat</SectionTitle>
+      <SectionTitle label="Save the Date">Waktu &amp; Tempat</SectionTitle>
 
       <div className="mt-[34px] flex flex-col gap-[22px]">
         {CONFIG.events.map((e, i) => (
@@ -45,7 +45,7 @@ export default function Events() {
               </Button>
               <Button as="a" variant="ghost" href={calendarUrl(e)} target="_blank" rel="noopener noreferrer">
                 <Icon name="calendar" className="size-[18px]" />
-                Simpan tanggal
+                Save the date
               </Button>
             </div>
           </Reveal>

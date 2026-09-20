@@ -4,6 +4,7 @@ import Icon from './Icon';
 import { Section, Lead, Ornament } from './ui';
 import { CONFIG } from '../data/config';
 import { PH } from '../lib/placeholders';
+import Birds from './Birds';
 
 // Satu kartu mempelai. `person` = data dari config, `fallback` = foto placeholder
 function Person({ person, fallback }) {
@@ -36,6 +37,7 @@ export default function Couple() {
   const { groom, bride, verse } = CONFIG;
   return (
     <Section id="couple">
+      <Birds speed={2} size={[20, 36]} className="text-brass" />
       <p lang="ar" dir="rtl" className="mb-1.5 font-arabic text-[1.9rem] leading-[1.6] text-brass">
         بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
       </p>
