@@ -21,7 +21,7 @@ export default function Cover({ opened, guest, onOpen }) {
       <p className="text-[.86rem] font-medium tracking-[.14em] text-[#cfe0c0]">Undangan Pernikahan</p>
 
       <div className="mx-auto mt-[18px] mb-5 aspect-square w-[168px] overflow-hidden rounded-full border-4 border-cream/85 shadow-[0_20px_40px_-20px_#000]">
-        <img src={CONFIG.couplePhoto || PH.couple} alt="Foto mempelai" className="size-full object-cover" />
+        <img src={CONFIG.coverPhoto || PH.couple} alt="Foto mempelai" className="size-full object-cover" />
       </div>
 
       <h1 className="font-script text-[clamp(3.2rem,15vw,4.4rem)] leading-[1.05]">

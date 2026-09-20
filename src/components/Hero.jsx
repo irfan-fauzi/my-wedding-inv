@@ -30,7 +30,7 @@ export default function Hero({ opened }) {
       <Sprig className="-top-2 -right-[18px] w-[110px] rotate-[200deg] text-accent opacity-[.28]" />
       {opened && <Petals />}
 
-      <p className="text-[.86rem] font-medium tracking-[.14em] text-accent">Kami menikah</p>
+      <p className="text-[.86rem] font-medium tracking-[.14em] text-accent mb-2">The Wedding of</p>
       <h2 className="my-1 font-script text-[clamp(3.4rem,15vw,4.6rem)] leading-[1.05] text-ink">
         {CONFIG.groom.nick} &amp; {CONFIG.bride.nick}
       </h2>

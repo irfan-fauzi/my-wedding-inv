@@ -23,27 +23,27 @@ export const CONFIG = {
     ig: "karlinaasm",
     photo: "",
   },
-  couplePhoto: "",
+  coverPhoto: "/img/cover.webp", // foto sampul; kosong = ilustrasi placeholder
+  couplePhoto: "/img/couple-first-page.webp",
   music: "", // alamat file mp3 (mis. '/musik.mp3'); kosong = nada lembut bawaan
 
   events: [
     {
       title: "Akad Nikah",
-      start: "2026-12-19T08:00:00+07:00",
-      end: "2026-12-19T10:00:00+07:00",
+      start: "2027-04-03T08:00:00+07:00",
+      end: "2027-04-03T10:00:00+07:00",
       time: "08.00 – 10.00 WIB",
-      place: "Masjid Al-Ikhlas",
-      address: "Jl. Melati Raya No. 12, Jakarta Selatan",
-      mapQuery: "Masjid Al-Ikhlas Jl. Melati Raya No. 12 Jakarta Selatan",
+      place: "",
+      address: "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
+      mapQuery: "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
     },
     {
       title: "Resepsi",
-      start: "2026-12-19T11:00:00+07:00",
-      end: "2026-12-19T14:00:00+07:00",
-      time: "11.00 – 14.00 WIB",
-      place: "Ballroom Hotel Mawar",
-      address: "Jl. Merdeka No. 1, Jakarta Pusat",
-      mapQuery: "Hotel Mawar Jl. Merdeka No. 1 Jakarta Pusat",
+      start: "2027-04-03T08:00:00+07:00",
+      end: "2027-04-03T10:00:00+07:00",
+      time: "09.00 – selesai",
+      address: "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
+      mapQuery: "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
     },
   ],
   livestream: "", // link YouTube/Instagram Live bila ada
