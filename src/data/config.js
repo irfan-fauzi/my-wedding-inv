@@ -25,7 +25,7 @@ export const CONFIG = {
   },
   coverPhoto: "/img/cover.webp", // foto sampul; kosong = ilustrasi placeholder
   couplePhoto: "/img/couple-first-page.webp",
-  music: "", // alamat file mp3 (mis. '/musik.mp3'); kosong = nada lembut bawaan
+  music: "/public/music/music.mp3", // alamat file mp3 (mis. '/musik.mp3'); kosong = nada lembut bawaan
 
   events: [
     {
