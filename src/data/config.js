@@ -86,7 +86,7 @@ export const CONFIG = {
     
   ],
   giftAddress:
-    "Anisa Putri Maharani, Jl. Kenanga No. 7, RT 03/RW 05, Jakarta Selatan 12345. Telp. 0812-3456-7890",
+    "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
 };
 
 // Waktu acara pertama (untuk hitung mundur), dalam milidetik
