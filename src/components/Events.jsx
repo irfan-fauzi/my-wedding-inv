@@ -21,12 +21,14 @@ export default function Events() {
     <Section id="events">
       <SectionTitle label="Save the Date">Waktu &amp; Tempat</SectionTitle>
 
-      <div className="mt-[34px] flex flex-col gap-[22px]">
+      <div className="mt-[34px] flex flex-col gap-[50px]">
         {CONFIG.events.map((e, i) => (
           <Reveal
             as="article"
             key={e.title}
-            className="rounded-[22px] border border-line bg-surface px-[22px] py-[30px] shadow-card"
+            className="rounded-[22px] border border-line bg-surface px-[22px] py-[30px] shadow-card "
+            style={{ backgroundImage: `url(/img/card.webp)`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}
+          
           >
             <div className="mx-auto mb-3 grid size-[54px] place-items-center rounded-full bg-alt text-accent">
               <Icon name={i === 0 ? 'star' : 'goblet'} className="size-[26px]" />
