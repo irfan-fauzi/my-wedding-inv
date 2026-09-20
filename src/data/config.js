@@ -19,7 +19,7 @@ export const CONFIG = {
     full: "Karlina Sri Mulyati, S.Kom.",
     child: "Putri ketiga",
     father: "(Alm) Bapak Karso S.pd.",
-    mother: "Iroh Rohmaniah",
+    mother: "Ibu Iroh Rohmaniah",
     ig: "karlinaasm",
     photo: "/img/wanita.webp",
   },
@@ -81,9 +81,9 @@ export const CONFIG = {
   gallery: ['/img/galeri-1.webp', '/img/galeri-2.webp', '/img/galeri-3.webp', '/img/galeri-4.webp',], // daftar alamat foto; kosong = 6 placeholder
 
   bank: [
-    { bank: "BCA", number: "1234567890", name: "Rizky Pratama" },
-    { bank: "Mandiri", number: "1400012345678", name: "Anisa Putri Maharani" },
-    { bank: "DANA", number: "081234567890", name: "Anisa Putri Maharani" },
+    { bank: "BCA", number: "1234567890", name: "Irfan fauzi rahmatullah" },
+    { bank: "Mandiri", number: "1400012345678", name: "Karlina Sri Mulyati" },
+    
   ],
   giftAddress:
     "Anisa Putri Maharani, Jl. Kenanga No. 7, RT 03/RW 05, Jakarta Selatan 12345. Telp. 0812-3456-7890",
