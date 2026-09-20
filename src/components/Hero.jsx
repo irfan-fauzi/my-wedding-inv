@@ -1,6 +1,7 @@
 import Sprig from './Sprig';
 import Arch from './Arch';
 import Petals from './Petals';
+import Birds from './Birds';
 import useCountdown from '../hooks/useCountdown';
 import { CONFIG, TARGET } from '../data/config';
 import { fmtLong } from '../lib/format';
@@ -28,7 +29,7 @@ export default function Hero({ opened }) {
     >
       <Sprig className="-top-2 -left-[18px] w-[110px] rotate-[160deg] text-accent opacity-[.28]" />
       <Sprig className="-top-2 -right-[18px] w-[110px] rotate-[200deg] text-accent opacity-[.28]" />
-      {opened && <Petals />}
+      {opened && <Birds speed={2} size={[20, 36]} className="text-brass" />}
 
       <p className="text-[.86rem] font-medium tracking-[.14em] text-accent mb-2">The Wedding of</p>
       <h2 className="my-1 font-script text-[clamp(3.4rem,15vw,4.6rem)] leading-[1.05] text-ink">

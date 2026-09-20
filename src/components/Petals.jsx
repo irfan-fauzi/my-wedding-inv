@@ -14,7 +14,7 @@ export default function Petals({ count = 12 }) {
   );
 
   return (
-    <div aria-hidden="true" className="pointer-events-none absolute inset-0 overflow-hidden motion-reduce:hidden">
+    <div aria-hidden="true" className="pointer-events-none absolute inset-0 overflow-hidden">
       {petals.map((p, i) => (
         <span
           key={i}
