@@ -7,7 +7,7 @@
 export const CONFIG = {
   groom: {
     nick: "Irfan",
-    full: "Irfan Fauzi, A.md.T",
+    full: "Irfan Fauzi Rahmatullah, A.Md.T",
     child: "Putra kedua",
     father: "Bapak Wardja S.pd.",
     mother: "Ibu Oom Komariah",
@@ -16,7 +16,7 @@ export const CONFIG = {
   },
   bride: {
     nick: "Karlina",
-    full: "Karlina Sri Mulyati, S.Kom.",
+    full: "Karlina Sri Mulyati, S.T.",
     child: "Putri ketiga",
     father: "(Alm) Bapak Karso S.pd.",
     mother: "Ibu Iroh Rohmaniah",
