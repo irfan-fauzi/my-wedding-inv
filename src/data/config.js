@@ -41,7 +41,7 @@ export const CONFIG = {
       title: "Resepsi",
       start: "2027-04-03T08:00:00+07:00",
       end: "2027-04-03T10:00:00+07:00",
-      time: "09.00 – selesai",
+      time: "09.00 – selesai", 
       address: "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
       mapQuery: "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
     },
