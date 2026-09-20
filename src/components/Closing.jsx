@@ -26,7 +26,9 @@ export default function Closing() {
         {CONFIG.groom.nick} &amp; {CONFIG.bride.nick}
       </p>
       <p className="text-[.92rem] text-muted">Beserta keluarga besar</p>
-      <p className="mt-9 text-[.85rem] text-muted">Undangan digital dengan React &amp; Tailwind CSS</p>
+      <p className="mt-9 text-[.85rem] text-muted max-w-[250px] mx-auto">
+        Undangan ini dibuat oleh Irfan fauzi 💟  alias mempelai pria 😇
+      </p>
     </section>
   );
 }

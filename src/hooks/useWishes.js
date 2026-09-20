@@ -5,8 +5,8 @@ const hour = 3600e3;
 
 // Ucapan contoh (hapus bila tidak diperlukan)
 const SEED = [
-  { name: 'Dinda & Fajar', attend: 'hadir', msg: 'Selamat menempuh hidup baru! Semoga sakinah, mawaddah, warahmah. Barakallahu lakuma.', t: Date.now() - hour * 5 },
-  { name: 'Keluarga Besar Wijaya', attend: 'hadir', msg: 'Bahagia sekali mendengar kabar ini. Sampai bertemu di hari H ya!', t: Date.now() - hour * 26 },
+  { name: 'Mr Smith & Mrs Smith', attend: 'hadir', msg: 'Selamat menempuh hidup baru! Semoga sakinah, mawaddah, warahmah. Barakallahu lakuma.', t: Date.now() - hour * 5 },
+  { name: 'Keluarga Besar Batman', attend: 'hadir', msg: 'Bahagia sekali mendengar kabar ini. Sampai bertemu di hari H ya!', t: Date.now() - hour * 26 },
   { name: 'Rania', attend: 'tidak', msg: 'Maaf belum bisa hadir. Doa terbaik untuk kalian berdua, semoga lancar sampai hari H.', t: Date.now() - hour * 50 },
 ];
 
