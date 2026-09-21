@@ -18,7 +18,7 @@ export const CONFIG = {
     nick: "Karlina",
     full: "Karlina Sri Mulyati, S.T.",
     child: "Putri ketiga",
-    father: "(Alm) Bapak Karso S.pd.",
+    father: "(Alm) Bapak Drs. Karso Saintar Alma",
     mother: "Ibu Iroh Rohmaniah",
     ig: "karlinaasm",
     photo: "/img/wanita.webp",

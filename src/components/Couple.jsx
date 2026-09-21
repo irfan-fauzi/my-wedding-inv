@@ -18,7 +18,10 @@ function Person({ person, fallback }) {
       <h3 className="font-script text-[2.6rem] leading-[1.2] font-normal text-brass">{person.nick}</h3>
       <p className="font-serif text-[1.4rem] font-semibold">{person.full}</p>
       <p className="mx-auto mt-1.5 max-w-[30ch] text-[.95rem] text-muted">
-        {person.child} dari {person.father} &amp; {person.mother}
+        {person.child} dari 
+      </p>
+      <p className="mx-auto mt-1.5 max-w-[30ch] text-[.95rem] text-muted">
+         {person.father} &amp; {person.mother}
       </p>
       <a
         href={`https://instagram.com/${encodeURIComponent(person.ig)}`}
