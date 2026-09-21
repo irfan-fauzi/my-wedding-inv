@@ -41,7 +41,7 @@ export const CONFIG = {
       title: "Resepsi",
       start: "2027-04-03T08:00:00+07:00",
       end: "2027-04-03T10:00:00+07:00",
-      time: "09.00 – selesai", 
+      time: "09.00 – selesai",
       address: "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
       mapQuery: "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
     },
@@ -78,15 +78,18 @@ export const CONFIG = {
     },
   ],
 
-  gallery: ['/img/galeri-1.webp', '/img/galeri-2.webp', '/img/galeri-3.webp', '/img/galeri-4.webp',], // daftar alamat foto; kosong = 6 placeholder
+  gallery: [
+    "/img/galeri-1.webp",
+    "/img/galeri-2.webp",
+    "/img/galeri-3.webp",
+    "/img/galeri-4.webp",
+  ], // daftar alamat foto; kosong = 6 placeholder
 
   bank: [
     { bank: "BCA", number: "1234567890", name: "Irfan fauzi rahmatullah" },
     { bank: "Mandiri", number: "1400012345678", name: "Karlina Sri Mulyati" },
-    
   ],
-  giftAddress:
-    "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
+  giftAddress: "Kelurahan Tonjong RT 01 RW 03 Kec.Majalengka Kab. Majalengka",
 };
 
 // Waktu acara pertama (untuk hitung mundur), dalam milidetik

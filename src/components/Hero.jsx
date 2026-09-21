@@ -38,7 +38,7 @@ export default function Hero({ opened }) {
 
       <Arch
         src={CONFIG.couplePhoto || PH.couple}
-        alt="Foto Rizky dan Anisa"
+        alt="Foto Irfan dan Karlina"
         className="mt-6 mb-[22px] w-[min(62%,232px)]"
       />
 
