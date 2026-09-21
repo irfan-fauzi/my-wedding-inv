@@ -9,7 +9,7 @@ export const CONFIG = {
     nick: "Irfan",
     full: "Irfan Fauzi Rahmatullah, A.Md.T",
     child: "Putra kedua",
-    father: "Bapak Wardja S.pd.",
+    father: "Bapak Wardja S.Pd.",
     mother: "Ibu Oom Komariah",
     ig: "irfan.fw",
     photo: "/img/pria.webp",
