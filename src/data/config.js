@@ -57,8 +57,8 @@ export const CONFIG = {
 
   story: [
     {
-      when: "2024",
-      title: "Pertama bertemu",
+      when: "2025",
+      title: "Pertemuan",
       text: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
