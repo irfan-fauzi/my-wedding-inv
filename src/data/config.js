@@ -59,21 +59,25 @@ export const CONFIG = {
     {
       when: "Oktober 2025",
       title: "Pertemuan",
+      image: "/img/galeri-1.webp",
       text: "Tidak ada yang terjadi secara kebetulan di dunia ini. Semua sudah diatur dengan sangat indah oleh Allah SWT. Kami tidak pernah menyangka bahwa perkenalan dan pertemuan sederhana di tahun 2025 menjadi awal dari sebuah perjalaan panjang yang membawa kami sampai di titik ini.",
     },
     {
       when: "Januari 2026",
       title: "Pendekatan",
+      image: "/img/galeri-2.webp",
       text: "Seiring berjalannya waktu, kedekatan itu tumbuh dengan sendirinya. Dari obrolan kecil yang sederhana, perlahan hadir rasa nyaman yang membuat kami ingin saling mengenal lebih jauh. Hingga akhirnya pada Januari 2026 kami memutuskan untuk malangkah dalam sebuah hubungan.",
     },
     {
       when: "Juli 2026",
       title: "Lamaran",
+      image: "/img/galeri-3.webp",
       text: "Perjalaan kami bukan tanpa ujian dan cerita. Namun setiap proses yang dilewati justru membawa kami semakin yakin satu sama lain. Sampai pada akhirnya, pada Juli 2026 kami dipertemukan dalam sebuah ikatan yang penuh doa dan restu keluarga.",
     },
     {
       when: "April 2027",
       title: "Pernikahan",
+      image: "/img/galeri-4.webp",
       text: "Kami percaya, bukan karena bertemu lalu berjodoh. Tetapi karena berjodohlah, maka Allah mempertemukan kami dengan cara terbaik-Nya. Dan dengan rasa syukur, kami memutuskan untuk mengikrarkan janji suci pernikahan pada 03 April 2027.",
     },
   ],
